@@ -8,7 +8,7 @@
     <owners>Ethan Hann</owners>
     <licenseUrl>https://github.com/beekmanlabs/Storage/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/beekmanlabs/Storage</projectUrl>
-    <iconUrl>https://avatars2.githubusercontent.com/u/10672919?v=3&s=200</iconUrl>
+    <iconUrl>http://beekmanlabs/beekmanlabs-nuget.png</iconUrl>
     <releaseNotes>https://github.com/beekmanlabs/Storage/releases</releaseNotes>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Data store repository abstractions.</description>
