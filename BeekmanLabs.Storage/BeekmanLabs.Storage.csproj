@@ -81,8 +81,6 @@
   <ItemGroup>
     <Compile Include="Mongo\IMongoClient.cs" />
     <Compile Include="Repository\DatabaseRepository.cs" />
-    <Compile Include="Repository\DatabaseRepositoryConfiguration.cs" />
-    <Compile Include="Repository\DatabaseRepositoryContext.cs" />
     <Compile Include="Repository\ElasticsearchRepository.cs" />
     <Compile Include="Repository\IDatabaseRepository.cs" />
     <Compile Include="Repository\IElasticsearchRepository.cs" />

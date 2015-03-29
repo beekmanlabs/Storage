@@ -13,13 +13,13 @@ namespace BeekmanLabs.Storage.Repository
     public class DatabaseRepository : IDatabaseRepository
     {
         public ILog Log { get; set; }
-        public DatabaseRespositoryContext Db = null;
+        public DbContext Db;
 
         public DatabaseRepository()
         {
         }
 
-        public DatabaseRepository(DatabaseRespositoryContext db)
+        public DatabaseRepository(DbContext db)
         {
             Db = db;
         }
