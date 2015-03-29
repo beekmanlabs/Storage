@@ -1,8 +1,8 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyVersion("0.0.1.*")]
-[assembly: AssemblyInformationalVersion("0.0.1")]
+[assembly: AssemblyVersion("0.0.2.*")]
+[assembly: AssemblyInformationalVersion("0.0.2")]
 [assembly: AssemblyTitle("BeekmanLabs.Storage")]
 [assembly: AssemblyCompany("Beekman Labs")]
 [assembly: AssemblyProduct("BeekmanLabs.Storage")]
